@@ -1,4 +1,6 @@
 ## This is Maze
+Implementation in python
+
 ![image](./maze.jpg)
 
 Reads input file as text containing # as wall and spaces as path
